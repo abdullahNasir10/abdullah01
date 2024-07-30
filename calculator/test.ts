@@ -1,5 +1,4 @@
-import inquirer from"inquirer";
-
+import inquirer from "inquirer";
 const question= await inquirer.promp([
     {
         type: "input",
